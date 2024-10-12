@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm an enthusiastic Data Analyst with a strong fou
 
 ### Projects
 
-**1. Power BI Projects**
+**1. Tableau Projects**
 - **[Customer Service Call Analysis Dashboard](https://github.com/urvi1998/Customer-call-service-Dashboard)**: Designed comprehensive Tableau Dashboard that visualizes data related to customer service calls, providing insights into various metrics such as average talk duration, speed of answer, satisfaction ratings, and more. The dashboard helps in analyzing agent performance, call topics, and service efficiency.
   
-**2. Tableau Projects**
+**2. Power BI Projects**
 - **[US Regional Sales Dashboard](https://github.com/urvi1998/US-Regional-Sales)**: Created an interactive Power BI Dashboard to visualizes the regional sales data of products across various customer segments and regions in the United States using an interactive dashboard. The primary goal is to provide insights into top and bottom product sales, customer performance, and delivery trends over different years.
 ## 📫 Let's Connect!
 
